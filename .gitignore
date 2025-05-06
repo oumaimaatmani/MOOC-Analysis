@@ -1,0 +1,11 @@
+# Data
+data/raw/
+data/processed/
+results/metrics/
+
+# Environments
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
