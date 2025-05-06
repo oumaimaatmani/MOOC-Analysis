@@ -118,8 +118,7 @@ Dataset Tables:
 | Random Forest       | 85%      | 0.50                | 0.74             | 0.66     |
 | **XGBoost**         | **89%**  | **0.64**            | **0.60**         | **0.64** |
 
-![ROC Curve](results/figures/roc_curve.png)  
-*ROC Curve showing model performance (AUC = 0.94)*
+
 
 ## Getting Started
 ### Prerequisites
