@@ -55,7 +55,7 @@ Dataset Tables:
 6. `studentVle.csv` - VLE interactions  
 7. `vle.csv` - VLE resource information  
 
-## 🗂 Project Structure
+## Project Structure
 ├── data/ # Data directories
 │ ├── raw/ # Raw original data (.gitignored)
 │ └── processed/ # Processed data (.gitignored)
